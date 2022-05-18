@@ -1,0 +1,12 @@
+.social-links{
+    display: flex;
+    flex-direction: row;
+}
+
+.social{
+    background-color: var(--secondary-color);
+    margin: 5px 5px;
+    width: 29px;
+    height: 29px;
+    border-radius: var(--border-radius-md);
+}

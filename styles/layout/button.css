@@ -1,0 +1,87 @@
+
+.hero__btn{
+    margin: 0 1rem;
+}
+
+.signin-btn {
+    border-color: var(--light-color);
+    cursor: pointer;
+    width: 100%;
+    height: 3.3rem;
+    border-width: 1px;
+    border-radius: var(--border-radius-md);
+    background-color: var(--primary-color);
+    font-size: var(--font-size-lg);
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+}
+
+.btn-like p{
+    font-size: var(--font-size-md);
+    top: -2px;
+    color: var(--light-color);
+}
+
+
+.btn-bbs{
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    border-radius: var(--border-radius-md);
+    border: none;
+    color: var(--light-color);
+    height: 12px;
+    width: 41px;
+    left: 45px;
+    top: 20px;
+}
+
+.pick{
+    margin: 0 0.5rem;
+    border-color: var(--light-color);
+}
+
+.btn-like{
+    background-color: var(--dark-color);
+    margin-right: 10px;
+    display: flex;
+    position: relative;
+    flex-direction: row;
+    border: none;
+    align-items: center;
+    justify-content: space-around;
+    width: 50px;
+    height: 13px;
+}
+
+.signin-btn:hover {
+    background-color: var(--secondary-color);
+}
+
+.btn-like:hover{
+    background-color: var(--dark-color);
+}
+
+.btn-navbar{
+    color: var(--light-color);
+    border-radius: var(--border-radius-3xl);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    width: 40px;
+    height: 40px;
+    background-color: var(--secondary-color);
+    margin: 2px;
+}
+
+.live-btn{
+    position: relative;
+    left: 65px;
+    top: -30px;
+    width: 90px;
+    height: 18px;
+    font-size: medium;
+}

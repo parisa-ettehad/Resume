@@ -1,0 +1,11 @@
+.logo-title{
+    border-radius: 50%;
+    height: 15px;
+    width: 15px;
+    margin: 7px;
+}
+
+.title{
+    display: flex;
+    flex-direction: row;
+}
