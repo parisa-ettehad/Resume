@@ -37,6 +37,11 @@
     color: var(--primary-color);
 }
 
+.body--wrapper__right h3{
+   display: flex;
+   text-align: center;
+}
+
 .body--wrapper__right p{
     margin: 10px 0px;
     color: gray;
